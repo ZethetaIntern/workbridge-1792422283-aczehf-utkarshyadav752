@@ -1,0 +1,6 @@
+{
+  "name": "WorkBridge Onboarding & Retention Suite",
+  "description": "Interactive 7-step gamified financial literacy onboarding prototype, analytics dashboard, 18-touchpoint journey map, A/B test planner, and 12-slide board presentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
